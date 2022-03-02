@@ -1,0 +1,12 @@
+/Users/jonnylake/Projects/RPG2/RPG2/bin/Debug/netcoreapp3.1/RPG2.deps.json
+/Users/jonnylake/Projects/RPG2/RPG2/bin/Debug/netcoreapp3.1/RPG2.runtimeconfig.json
+/Users/jonnylake/Projects/RPG2/RPG2/bin/Debug/netcoreapp3.1/RPG2.runtimeconfig.dev.json
+/Users/jonnylake/Projects/RPG2/RPG2/bin/Debug/netcoreapp3.1/RPG2.dll
+/Users/jonnylake/Projects/RPG2/RPG2/bin/Debug/netcoreapp3.1/RPG2.pdb
+/Users/jonnylake/Projects/RPG2/RPG2/obj/Debug/netcoreapp3.1/RPG2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonnylake/Projects/RPG2/RPG2/obj/Debug/netcoreapp3.1/RPG2.AssemblyInfoInputs.cache
+/Users/jonnylake/Projects/RPG2/RPG2/obj/Debug/netcoreapp3.1/RPG2.AssemblyInfo.cs
+/Users/jonnylake/Projects/RPG2/RPG2/obj/Debug/netcoreapp3.1/RPG2.csproj.CoreCompileInputs.cache
+/Users/jonnylake/Projects/RPG2/RPG2/obj/Debug/netcoreapp3.1/RPG2.dll
+/Users/jonnylake/Projects/RPG2/RPG2/obj/Debug/netcoreapp3.1/RPG2.pdb
+/Users/jonnylake/Projects/RPG2/RPG2/obj/Debug/netcoreapp3.1/RPG2.genruntimeconfig.cache
