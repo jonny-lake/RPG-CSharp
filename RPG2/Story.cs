@@ -15,7 +15,7 @@ namespace RPG2
         public static (string, string) StartText()
         {
             // Opening lines.
-            var _startText = new SceneDescription("UNKNOWN: I wish I had ended it that first day, that first opportunity. Why the f*ck should I breath this air anymore. One poison breath at a time for five long years. Five years into this hell and still no way out. It's been so long now it shouldn't matter. I've thought too long. Thought too far, too deep. I'm tired. So fucking tired that sometimes I can't even remember who I am. Can't remember my own f**king name.");
+            var _startText = new SceneDescription("UNKNOWN: I wish I had ended it that first day, that first opportunity. Why the f*ck should I breathe this air anymore. One poison breath at a time for five long years. Five years into this hell and still no way out. It's been so long now it shouldn't matter. I've thought too long. Thought too far, too deep. I'm tired. So f**king tired that sometimes I can't even remember who I am. Can't remember my own f**king name.");
 
             // Opening lines continued.
             var _namePrompt = new SceneDescription("What was it again? Come on. Think.");

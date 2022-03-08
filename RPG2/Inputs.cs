@@ -43,7 +43,7 @@ namespace RPG2
 
                 case "commands":
                     Console.WriteLine();
-                    string[] commandsList = { "goLeft: Examine the left side of the room.","goRight: Examine the right side of the room","door: Examine the door.","commands: See list of commands."};
+                    string[] commandsList = { "goLeft: Examine the left side of the room.","goRight: Examine the right side of the room.","door: Examine the door.","commands: See list of commands."};
                     Outputs.ListOptions(commandsList);
                     Console.WriteLine();
                     notCommands = false;
