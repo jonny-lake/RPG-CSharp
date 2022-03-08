@@ -2,18 +2,18 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Outputs.cs">
     <Files>
       <File FileName="Outputs.cs" Line="52" Column="38" />
-      <File FileName="Program.cs" Line="13" Column="2" />
-      <File FileName="Story.cs" Line="11" Column="6" />
-      <File FileName="Characters.cs" Line="12" Column="44" />
-      <File FileName="Items.cs" Line="17" Column="10" />
-      <File FileName="Inputs.cs" Line="58" Column="10" />
+      <File FileName="Program.cs" />
+      <File FileName="Story.cs" />
+      <File FileName="Characters.cs" />
+      <File FileName="Items.cs" />
+      <File FileName="Inputs.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RPG2" expanded="True">
             <Node name="RPG2" expanded="True">
-              <Node name="Outputs.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

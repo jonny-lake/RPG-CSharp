@@ -10,3 +10,16 @@
 /Users/jonnylake/Projects/RPG2/RPG2/obj/Debug/netcoreapp3.1/RPG2.dll
 /Users/jonnylake/Projects/RPG2/RPG2/obj/Debug/netcoreapp3.1/RPG2.pdb
 /Users/jonnylake/Projects/RPG2/RPG2/obj/Debug/netcoreapp3.1/RPG2.genruntimeconfig.cache
+/Users/jonnylake/Documents/Coding Portfolio/Personal/RPG-CSharp/RPG2/bin/Debug/netcoreapp3.1/RPG2.deps.json
+/Users/jonnylake/Documents/Coding Portfolio/Personal/RPG-CSharp/RPG2/bin/Debug/netcoreapp3.1/RPG2.runtimeconfig.json
+/Users/jonnylake/Documents/Coding Portfolio/Personal/RPG-CSharp/RPG2/bin/Debug/netcoreapp3.1/RPG2.runtimeconfig.dev.json
+/Users/jonnylake/Documents/Coding Portfolio/Personal/RPG-CSharp/RPG2/bin/Debug/netcoreapp3.1/RPG2.dll
+/Users/jonnylake/Documents/Coding Portfolio/Personal/RPG-CSharp/RPG2/bin/Debug/netcoreapp3.1/RPG2.pdb
+/Users/jonnylake/Documents/Coding Portfolio/Personal/RPG-CSharp/RPG2/obj/Debug/netcoreapp3.1/RPG2.csproj.AssemblyReference.cache
+/Users/jonnylake/Documents/Coding Portfolio/Personal/RPG-CSharp/RPG2/obj/Debug/netcoreapp3.1/RPG2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonnylake/Documents/Coding Portfolio/Personal/RPG-CSharp/RPG2/obj/Debug/netcoreapp3.1/RPG2.AssemblyInfoInputs.cache
+/Users/jonnylake/Documents/Coding Portfolio/Personal/RPG-CSharp/RPG2/obj/Debug/netcoreapp3.1/RPG2.AssemblyInfo.cs
+/Users/jonnylake/Documents/Coding Portfolio/Personal/RPG-CSharp/RPG2/obj/Debug/netcoreapp3.1/RPG2.csproj.CoreCompileInputs.cache
+/Users/jonnylake/Documents/Coding Portfolio/Personal/RPG-CSharp/RPG2/obj/Debug/netcoreapp3.1/RPG2.dll
+/Users/jonnylake/Documents/Coding Portfolio/Personal/RPG-CSharp/RPG2/obj/Debug/netcoreapp3.1/RPG2.pdb
+/Users/jonnylake/Documents/Coding Portfolio/Personal/RPG-CSharp/RPG2/obj/Debug/netcoreapp3.1/RPG2.genruntimeconfig.cache

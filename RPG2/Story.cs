@@ -43,7 +43,7 @@ namespace RPG2
     {
         public static void AfterIntro(string proName, string narName)
         {
-            string[] _AfterIntro = { "NARRATOR: One slice of light, served graciously from the heavens, it pours over him. He is slouched over himself, limp. One hollow breath at a time, he lives. His will keeps him. ", "The door ahead taunts him. LOCKED from the outside, it is kept by THEM.", "A beat.", "A cluttering can be heard across the great divide. He falls towards the iron gate as if to feel noticed by it. The letter box opens its mouth, and spits its facetious gift.", "A rusty philips head from the gods, a note pasted to it. He reads to himself:", narName + ": Six digits to freedom. Left to right, decide your destiny." };
+            string[] _AfterIntro = { "NARRATOR: One slice of light, served graciously from the heavens, it pours over them. They are slouched over themself, limp. One hollow breath at a time, they live. Their will keeps them. ", "The door ahead taunts them. LOCKED from the outside, it is kept by IT.", "A beat.", "A cluttering can be heard across the great divide. They fall towards the iron gate as if to feel noticed by it. The letter box opens its mouth, and spits its facetious gift.", "A rusty philips head from the gods, a note pasted to it. They read to themself:", narName + ": Six digits to freedom. Left to right, decide your destiny." };
 
             string[] screwProperties = { "red", "short" };
             var screwDriver = new ItemCreator("PHILLIPS", "A Phillips screwdriver has a head with pointed edges in the shape of a cross, which fit neatly into the cross slots of a Phillips screw.", screwProperties, true);
